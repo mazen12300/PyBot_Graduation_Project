@@ -1,0 +1,222 @@
+text,intent
+Hi,greeting
+Hello,greeting
+Hey there,greeting
+Good morning,greeting
+Good evening,greeting
+"Hi there, how are you?",greeting
+"Hello, is anyone here?",greeting
+"Hey, can you help me?",greeting
+Good afternoon,greeting
+"Hi, I need some help",greeting
+Hello there,greeting
+Hey,greeting
+Greetings,greeting
+Hi assistant,greeting
+Good day,greeting
+Bye,goodbye
+Goodbye,goodbye
+See you later,goodbye
+I have to go now,goodbye
+Talk to you later,goodbye
+See you,goodbye
+Bye bye,goodbye
+I'm leaving now,goodbye
+Catch you later,goodbye
+See you next time,goodbye
+Goodbye for now,goodbye
+"Thanks, bye",goodbye
+Thank you,thanks
+Thanks a lot,thanks
+Thank you so much,thanks
+I appreciate it,thanks
+Thanks for the help,thanks
+"That was helpful, thanks",thanks
+Thank you very much,thanks
+Thanks!,thanks
+Much appreciated,thanks
+Thanks for your time,thanks
+I really appreciate your help,thanks
+"Great, thank you",thanks
+What is a variable in Python?,python_basics
+How do I install Python?,python_basics
+What is the difference between a list and a tuple?,python_basics
+How do I write a for loop in Python?,python_basics
+What is a function in Python?,python_basics
+Explain Python data types,python_basics
+How do I read a file in Python?,python_basics
+What is indentation in Python?,python_basics
+How do I install a Python package?,python_basics
+What is a dictionary in Python?,python_basics
+How do I handle exceptions in Python?,python_basics
+What is object-oriented programming in Python?,python_basics
+How do I define a class in Python?,python_basics
+What is a lambda function?,python_basics
+How do virtual environments work in Python?,python_basics
+What is pip used for?,python_basics
+How do I import a module in Python?,python_basics
+What is the difference between == and is in Python?,python_basics
+How do I debug Python code?,python_basics
+What is a Python decorator?,python_basics
+How do list comprehensions work?,python_basics
+What is the GIL in Python?,python_basics
+What is a stack?,data_structures
+What is a queue?,data_structures
+Explain how a linked list works,data_structures
+What is the difference between an array and a linked list?,data_structures
+What is a binary search tree?,data_structures
+How does a hash table work?,data_structures
+What is the time complexity of quicksort?,data_structures
+What is a graph data structure?,data_structures
+Explain breadth first search,data_structures
+Explain depth first search,data_structures
+What is a heap?,data_structures
+How do I implement a stack using an array?,data_structures
+What is Big O notation?,data_structures
+What is recursion?,data_structures
+Explain how binary search works,data_structures
+What is the difference between BFS and DFS?,data_structures
+What is a balanced binary tree?,data_structures
+How does merge sort work?,data_structures
+What is dynamic programming?,data_structures
+What is a doubly linked list?,data_structures
+What is SQL?,databases
+What is the difference between SQL and NoSQL?,databases
+How do I write a JOIN query?,databases
+What is a primary key?,databases
+What is a foreign key?,databases
+What is database normalization?,databases
+What is an index in a database?,databases
+How do I create a table in SQL?,databases
+What is a stored procedure?,databases
+What is ACID in databases?,databases
+What is the difference between INNER JOIN and OUTER JOIN?,databases
+How do transactions work in a database?,databases
+What is a database schema?,databases
+What is denormalization?,databases
+How do I optimize a slow SQL query?,databases
+What is MongoDB?,databases
+What is the difference between relational and non-relational databases?,databases
+What is a composite key?,databases
+What is machine learning?,machine_learning
+What is the difference between supervised and unsupervised learning?,machine_learning
+What is overfitting?,machine_learning
+What is underfitting?,machine_learning
+What is a confusion matrix?,machine_learning
+What is cross-validation?,machine_learning
+What is gradient descent?,machine_learning
+What is a neural network?,machine_learning
+What is the difference between classification and regression?,machine_learning
+What is feature engineering?,machine_learning
+What is regularization in machine learning?,machine_learning
+What is a random forest?,machine_learning
+What is the bias-variance tradeoff?,machine_learning
+What is a support vector machine?,machine_learning
+How does k-means clustering work?,machine_learning
+What is precision and recall?,machine_learning
+What is deep learning?,machine_learning
+What is transfer learning?,machine_learning
+What is an activation function?,machine_learning
+What is a loss function?,machine_learning
+What is the mean and median?,statistics
+What is standard deviation?,statistics
+What is a p-value?,statistics
+What is a normal distribution?,statistics
+What is correlation?,statistics
+What is hypothesis testing?,statistics
+What is the central limit theorem?,statistics
+What is variance?,statistics
+What is a confidence interval?,statistics
+What is the difference between correlation and causation?,statistics
+What is a t-test?,statistics
+What is skewness?,statistics
+What is a chi-square test?,statistics
+What is sampling in statistics?,statistics
+What is a probability distribution?,statistics
+What is Bayes theorem?,statistics
+When is the next exam?,exam_schedule
+What is the exam schedule for this semester?,exam_schedule
+When is the Python exam?,exam_schedule
+Can you tell me the final exam dates?,exam_schedule
+When are midterm exams?,exam_schedule
+Is there an exam next week?,exam_schedule
+What time does the exam start?,exam_schedule
+Where can I check the exam timetable?,exam_schedule
+When is the machine learning exam?,exam_schedule
+Are exams online or in person?,exam_schedule
+How long is the final exam?,exam_schedule
+When will exam results be announced?,exam_schedule
+Is there a makeup exam?,exam_schedule
+How many exams are left this term?,exam_schedule
+When is the assignment due?,assignment_deadline
+What is the deadline for the project?,assignment_deadline
+Can I get an extension on my assignment?,assignment_deadline
+When do I need to submit my homework?,assignment_deadline
+Is there a late submission policy?,assignment_deadline
+What is the deadline for the machine learning project?,assignment_deadline
+How do I submit my assignment?,assignment_deadline
+When is the final project due?,assignment_deadline
+Can I submit my assignment late?,assignment_deadline
+What happens if I miss the deadline?,assignment_deadline
+How many days do I have to finish this assignment?,assignment_deadline
+What is the submission format for the project?,assignment_deadline
+Where do I upload my assignment?,assignment_deadline
+Is the deadline the same for everyone?,assignment_deadline
+What are the professor's office hours?,office_hours
+When can I meet the instructor?,office_hours
+How do I book office hours?,office_hours
+Are office hours available online?,office_hours
+What days are office hours held?,office_hours
+Can I schedule a one-on-one meeting?,office_hours
+Where are office hours held?,office_hours
+How long are office hours?,office_hours
+Do I need an appointment for office hours?,office_hours
+Are office hours mandatory?,office_hours
+How do I register for a course?,course_registration
+What is the deadline to register for courses?,course_registration
+Can I change my course schedule?,course_registration
+How do I drop a course?,course_registration
+What are the prerequisites for this course?,course_registration
+How many courses can I register for?,course_registration
+Is there a registration fee?,course_registration
+Can I register for a course after the deadline?,course_registration
+How do I check my registered courses?,course_registration
+What is the add/drop period?,course_registration
+Can I switch to a different track?,course_registration
+How do I register for an elective?,course_registration
+How is the final grade calculated?,grading_system
+What is the passing grade?,grading_system
+How much is the project worth in the final grade?,grading_system
+Is attendance part of the grade?,grading_system
+What is the grading scale?,grading_system
+How are assignments graded?,grading_system
+Can I see my grades online?,grading_system
+Is there a curve on the exam grades?,grading_system
+How do I appeal a grade?,grading_system
+What percentage is the final exam worth?,grading_system
+What time does the library open?,library_hours
+Is the library open on weekends?,library_hours
+What are the library hours?,library_hours
+Can I borrow books from the library?,library_hours
+How long can I keep a borrowed book?,library_hours
+Is there a digital library available?,library_hours
+Does the library have study rooms?,library_hours
+What time does the library close?,library_hours
+I can't access the online platform,technical_support
+The website is not loading,technical_support
+I forgot my password,technical_support
+How do I reset my account password?,technical_support
+The video lecture is not playing,technical_support
+I'm getting an error when I submit my assignment,technical_support
+My account is locked,technical_support
+I can't log into the portal,technical_support
+Can you help me with something?,general_help
+I have a question,general_help
+I need some assistance,general_help
+Can you explain something to me?,general_help
+I don't understand this topic,general_help
+Can you help me study?,general_help
+I'm confused about something,general_help
+What can you help me with?,general_help
+Can you give me some advice?,general_help
+I need help understanding a concept,general_help
